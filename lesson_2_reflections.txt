@@ -1,0 +1,3 @@
+When I initialize new repository, git creates some files it needs for working
+properly.
+I need to do it if I want git to track files I want it to track.
