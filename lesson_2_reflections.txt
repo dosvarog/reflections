@@ -4,3 +4,6 @@ I need to do it if I want git to track files I want it to track.
 
 Staging area is "waiting area" for files. It increases flexibility regarding
 version control and tracking.
+
+You work on one logical change and you stage only that change. After that you
+commit that change.
