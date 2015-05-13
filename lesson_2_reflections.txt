@@ -10,3 +10,8 @@ commit that change.
 
 When you need new experimental feature, for example. Branches allow you to
 make different version of a project with different features.
+
+Diagrams always help to visualize stuff.
+
+Result of merging is new branch containing code from both of the branches.
+We represent it in a way we do because it is easier to follow that way.
