@@ -15,3 +15,6 @@ Diagrams always help to visualize stuff.
 
 Result of merging is new branch containing code from both of the branches.
 We represent it in a way we do because it is easier to follow that way.
+
+Pro's are that git can automatically merge some simple changes, and when
+those changes are complex, merges are done manually.
